@@ -1,0 +1,67 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+body
+{
+    background-color:whitesmoke;
+    font-size: 22px;
+    font-family: 'Alkatra', cursive;
+}
+main
+{
+    font-family: 'Alkatra', cursive;
+}
+p
+{
+    font-family: 'Alkatra', cursive;
+}
+.hilight
+{
+    background-color: gold;
+}
+#pchild
+{
+    color: red;
+}
+/* ul .li-class
+{
+    font-size: 40px;
+    color: red;
+} */
+/* ul
+{
+    list-style-type:square ;
+    text-align: center;
+    list-style-position:inside ;
+    font-size: 36px;
+    font-weight: 700;
+    list-style-image: url(/img/checklist.png);
+    color: blue;
+}
+ul li:not(:last-child)
+{
+    color: aquamarine;
+} */
+
+/* #specify
+{
+    font-size: 30px;
+    color: black;
+} */
+a
+{
+    font-size: 44px;
+    color: sandybrown;
+}
+a:hover
+{
+    color: aqua;
+    text-decoration: none;
+}
+a:active
+{
+    color: black;
+}
+
+
+
